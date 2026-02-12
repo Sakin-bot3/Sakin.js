@@ -4,7 +4,7 @@ const path = require('path');
 
 module.exports = {
   config: {
-    name: "Bot",
+    name: "vabi",
     version: "1.0.0",
     aliases: ["mim"],
     permission: 0,
